@@ -1,4 +1,4 @@
-# Namma-Yatri---Booking-Without-App
+# Booking-Without-App
 
 ## Problem Statement: 
 The ability to book a Namma Yatri auto could open up more demand. Build innovative tech solutions to let customers book an auto without installing the app - E.g. website, WhatsApp, SMS, Phone etc. This will cater to users who are uncomfortable or unwilling to use Apps.
