@@ -12,4 +12,6 @@ Namma Yatri is a community-led platform and has a decentralized operations model
 3. Direct phone call/contact the nearest driver
 4. Any other innovative means for direct booking
 
+## Figma link: 
+https://www.figma.com/file/eOPxfX4vY9QyAauhT4Ur8s/Namma-Yatri?type=whiteboard&t=cavgv0LDW3TObfaL-1
 
